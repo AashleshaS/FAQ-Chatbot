@@ -1,6 +1,6 @@
 # 🎓 SIT Nagpur Institute FAQ Chatbot
 
-A smart, purely client-side NLP Chatbot built using Vanilla HTML, CSS, and JavaScript. This project was developed as part of the **Hack-o-Week** college event, fulfilling 10 progressive problem statements from basic rule-based matching to advanced context handling and analytics.
+A smart, purely client-side NLP Chatbot built using HTML, CSS, and JavaScript. This project was developed as part of the **Hack-o-Week** college event, fulfilling 10 progressive problem statements from basic rule-based matching to advanced context handling and analytics.
 
 ## 🚀 Features (Hack-o-Week 1 to 10)
 
